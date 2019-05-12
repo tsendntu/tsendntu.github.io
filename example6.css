@@ -1,0 +1,33 @@
+body{
+	background-color: orange;
+}
+    
+.image1{
+	width: 300px;
+}
+
+.image2{
+	width: 300px;
+}
+
+
+li{
+	color: green;
+	font-size: 15px
+}
+
+ h3{
+	color: orange;
+	font-size: 28px;
+	font-weight: bold; 
+}
+
+h1 { 
+color : green;
+  font-size: 40px;
+}
+
+
+.blue {
+	color: blue;
+}
